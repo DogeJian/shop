@@ -1,0 +1,45 @@
+  .bodylead {
+      width: 300px;
+      height: 500px;
+      background-color:black;
+  }
+  #choice{
+      margin-left:10%;
+      padding-top: 10%;
+      font-size: 18px;
+      font-family: KaiTi;
+      color:white;
+  }
+  .bodyhead{
+      width:100%;
+      display:flex;
+  }
+  .wordall{
+      width:530px;
+      height:380px;
+  }
+  p{
+      text-indent:2em;
+      font-weight: bolder;
+      font-family: KaiTi;
+  }
+  .box1{
+      width:920px;
+      height:380px;
+      display: flex;
+      justify-content: center;
+      flex-flow: row wrap;
+  }
+.td1 {
+    color: black;
+    text-indent: 2em;
+    font-weight: bolder;
+    font-family: KaiTi;
+}
+#h11{
+    font-family: KaiTi;
+}
+.didi{
+    font-size: 30px;
+    font-family: KaiTi;
+}
