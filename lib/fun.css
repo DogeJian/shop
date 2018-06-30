@@ -1,5 +1,5 @@
   .bodylead {
-      width: 300px;
+      width: 25%;
       height: 500px;
       background-color:black;
   }
@@ -15,8 +15,8 @@
       display:flex;
   }
   .wordall{
-      width:530px;
-      height:380px;
+      width:25%;
+      height:500px;
   }
   p{
       text-indent:2em;
@@ -24,7 +24,7 @@
       font-family: KaiTi;
   }
   .box1{
-      width:920px;
+      width:55%;
       height:380px;
       display: flex;
       justify-content: center;
@@ -42,4 +42,13 @@
 .didi{
     font-size: 30px;
     font-family: KaiTi;
+    margin-top: 60px;
 }
+.threeimg{
+    width:55%;
+    display: flex;
+}
+.aaa{
+
+}
+
